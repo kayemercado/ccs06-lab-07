@@ -1,0 +1,16 @@
+{
+    "name": "app/php",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kaye Celuch T. Mercado",
+            "email": "mercado.kayeceluch@auf.edu.ph"
+        }
+    ],
+    "require": {}
+}
